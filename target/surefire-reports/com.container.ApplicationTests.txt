@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.container.ApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.237 s -- in com.container.ApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.440 s -- in com.container.ApplicationTests
