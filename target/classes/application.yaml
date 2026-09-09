@@ -4,3 +4,7 @@ server:
 spring:
   application:
     name: Application
+
+
+user:
+  name: ${ USER_NAME }
