@@ -6,5 +6,5 @@ spring:
     name: Application
 
 
-user:
-  name: ${APP_USER_NAME}
+app:
+  user-name: ${APP_USER_NAME}

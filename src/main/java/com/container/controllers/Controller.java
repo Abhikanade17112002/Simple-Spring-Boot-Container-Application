@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
     @RequestMapping("/api")
     public class Controller {
 
-        @Value("${user.name}")
+        @Value("${app.user-name}")
         private String USER_NAME ;
 
         @GetMapping("/health")
