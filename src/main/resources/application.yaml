@@ -7,4 +7,4 @@ spring:
 
 
 user:
-  name: ${ USER_NAME }
+  name: ${ APP_USER_NAME }
